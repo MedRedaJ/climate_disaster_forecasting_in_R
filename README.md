@@ -1,6 +1,6 @@
 # Climate Disaster Time Series Forecasting using R
 
-This project is a collaboration between me, Mohamed Reda Jahouri, ![Justin Hay](https://www.linkedin.com/in/justinhay1/), and Tijn
+This project is a collaboration between me, Mohamed Reda Jahouri, [Justin Hay](https://www.linkedin.com/in/justinhay1/), and Tijn
 
 This project consists of time series model analysis and comparison to identify trends and patterns in U.S. climate disasters.
 
