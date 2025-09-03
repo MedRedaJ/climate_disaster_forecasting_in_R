@@ -1,0 +1,392 @@
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost (Millions),Unadjusted Cost (Millions),Deaths,,,,,,Filtering 40 billion +
+Southern Severe Storms and Flooding (April 1980),Flooding,1980-04-10,1980-04-17,"$2,742.3",$706.8,7,,,,,,2742.3
+Central/Eastern Drought/Heat Wave (Summer-Fall 1980),Drought,1980-06-01,1980-11-30,"$40,480.8","$10,020.0",1260,,,,,,
+Hurricane Allen (August 1980),Tropical Cyclone,1980-08-07,1980-08-11,"$2,224.4",$590.0,13,,,,,,2224.4
+Florida Freeze (January 1981),Freeze,1981-01-12,1981-01-14,"$2,064.9",$572.0,0,,,,,,2064.9
+"Severe Storms, Flash Floods, Hail, Tornadoes (May 1981)",Severe Storm,1981-05-05,1981-05-10,"$1,405.2",$401.4,20,,,,,,1405.2
+"Midwest/Southeast/Northeast Winter Storm, Cold Wave (January 1982)",Winter Storm,1982-01-08,1982-01-16,"$2,204.6",$662.0,85,,,,,,2204.6
+Midwest/Plains/Southeast Tornadoes (April 1982),Severe Storm,1982-04-02,1982-04-04,"$1,599.5",$483.2,33,,,,,,1599.5
+Severe Storms (June 1982),Severe Storm,1982-05-31,1982-06-10,"$1,574.2",$479.9,30,,,,,,1574.2
+Gulf States Storms and Flooding (December 1982-January 1983),Flooding,1982-12-01,1983-01-15,"$4,915.4","$1,536.1",45,,,,,,4915.4
+Western Storms and Flooding (December 1982-March 1983),Flooding,1982-12-13,1983-03-31,"$4,798.7","$1,499.6",50,,,,,,4798.7
+Southeast Drought (Summer 1983),Drought,1983-06-01,1983-08-31,"$9,514.6","$2,964.1",0,,,,,,9514.6
+Hurricane Alicia (August 1983),Tropical Cyclone,1983-08-17,1983-08-20,"$9,390.0","$3,000.0",21,,,,,,9390
+Arizona Flooding (October 1983),Flooding,1983-09-29,1983-10-03,"$1,248.0",$400.0,14,,,,,,1248
+Freeze/Cold Wave (December 1983),Freeze,1983-12-15,1983-12-25,"$6,438.3","$2,005.8",151,,,,,,6438.3
+"Tornadoes, Severe Storms, Floods (Spring 1984)",Severe Storm,1984-03-27,1984-04-07,"$1,845.3",$603.1,80,,,,,,1845.3
+Severe Storms and Hail (June 1984),Severe Storm,1984-06-13,1984-06-17,"$1,352.0",$446.2,1,,,,,,1352
+"Winter Storm, Cold Wave (January 1985)",Winter Storm,1985-01-19,1985-01-22,"$2,493.7",$836.9,150,,,,,,2493.7
+Florida Freeze (January 1985),Freeze,1985-01-20,1985-01-22,"$3,576.0","$1,200.0",0,,,,,,3576
+Ohio and Pennsylvania Tornado Outbreak (June 1985),Severe Storm,1985-05-31,1985-05-31,"$1,752.0",$600.0,89,,,,,,1752
+Hurricane Elena (September 1985),Tropical Cyclone,1985-08-30,1985-09-03,"$3,775.4","$1,297.4",4,,,,,,3775.4
+Hurricane Gloria (September 1985),Tropical Cyclone,1985-09-26,1985-09-28,"$2,482.9",$856.1,11,,,,,,2482.9
+Hurricane Juan (October 1985),Tropical Cyclone,1985-10-27,1985-10-31,"$4,325.5","$1,496.7",63,,,,,,4325.5
+"Virginia, West Virginia, Pennsylvania and Maryland Flooding (November 1985)",Flooding,1985-11-03,1985-11-08,"$4,032.0","$1,400.0",62,,,,,,4032
+Western Severe Storms and Flooding (February 1986),Severe Storm,1986-02-14,1986-02-16,"$1,520.6",$529.8,13,,,,,,1520.6
+Southeast Drought/Heat Wave (Summer 1986),Drought,1986-06-01,1986-08-31,"$5,176.4","$1,803.6",100,,,,,,5176.4
+Michigan Flooding (September 1986),Flooding,1986-09-10,1986-09-12,"$1,140.0",$400.0,10,,,,,,1140
+U.S. Drought/Heat Wave (Summer 1988),Drought,1988-06-01,1988-08-31,"$54,210.6","$20,003.8",454,,,,,,
+Southern Derecho and Severe Storms (May 1989),Severe Storm,1989-05-01,1989-05-06,"$1,401.0",$551.5,21,,,,,,1401
+Northern Plains Drought (Summer-Fall 1989),Drought,1989-06-01,1989-11-30,"$7,778.2","$3,003.2",0,,,,,,7778.2
+Tropical Storm Allison (June 1989),Tropical Cyclone,1989-06-26,1989-06-28,"$1,480.1",$585.0,11,,,,,,1480.1
+Hurricane Hugo (September 1989),Tropical Cyclone,1989-09-21,1989-09-22,"$22,589.7","$8,999.9",86,,,,,,22589.7
+"Winter Storm, Cold Wave (December 1989)",Winter Storm,1989-12-21,1989-12-26,"$1,693.8",$680.0,100,,,,,,1693.8
+Florida Freeze (December 1989),Freeze,1989-12-23,1989-12-25,"$5,180.0","$2,000.0",10,,,,,,5180
+Southern Flooding (May 1990),Flooding,1990-05-11,1990-05-19,"$2,446.7","$1,006.9",13,,,,,,2446.7
+Western Fire Season (Summer 1990),Wildfire,1990-06-01,1990-08-31,"$1,709.0",$715.0,17,,,,,,1709
+Colorado Hail Storm (July 1990),Severe Storm,1990-07-11,1990-07-11,"$1,976.3",$820.1,0,,,,,,1976.3
+California Freeze (December 1990),Freeze,1990-12-18,1990-12-25,"$8,398.0","$3,400.0",0,,,,,,8398
+U.S. Drought (Spring-Summer 1991),Drought,1991-03-01,1991-08-31,"$7,009.9","$3,008.5",0,,,,,,7009.9
+"Severe Storms, Tornadoes (March 1991)",Severe Storm,1991-03-26,1991-03-29,"$1,503.1",$645.0,0,,,,,,1503.1
+Hurricane Bob (August 1991),Tropical Cyclone,1991-08-18,1991-08-20,"$3,456.7","$1,502.9",18,,,,,,3456.7
+Oakland Firestorm (October 1991),Wildfire,1991-10-01,1991-10-31,"$7,557.0","$3,300.0",25,,,,,,7557
+Severe Storms (March 1992),Severe Storm,1992-03-24,1992-03-25,"$1,809.7",$804.3,0,,,,,,1809.7
+"Hail, Tornadoes (April 1992)",Severe Storm,1992-04-28,1992-04-29,"$2,147.4",$954.4,0,,,,,,2147.4
+"Severe Storms, Hail (June 1992)",Severe Storm,1992-06-19,1992-06-20,"$1,675.5",$748.0,0,,,,,,1675.5
+Hurricane Andrew (August 1992),Tropical Cyclone,1992-08-23,1992-08-27,"$60,210.0","$27,000.0",61,,,,,,
+Hurricane Iniki (September 1992),Tropical Cyclone,1992-09-11,1992-09-12,"$6,882.0","$3,100.0",7,,,,,,6882
+Southeast Severe Weather (November 1992),Severe Storm,1992-11-21,1992-11-23,"$1,452.0",$657.0,26,,,,,,1452
+Northeast Winter Storm (December 1992),Winter Storm,1992-12-10,1992-12-13,"$5,487.4","$2,483.0",19,,,,,,5487.4
+East Coast Blizzard and Severe Weather (March 1993),Winter Storm,1993-03-11,1993-03-14,"$12,104.1","$5,527.0",270,,,,,,12104.1
+Southeast Drought and Heat Wave (Summer 1993),Drought,1993-06-01,1993-08-31,"$2,767.6","$1,258.0",16,,,,,,2767.6
+Midwest Flooding (Summer 1993),Flooding,1993-06-27,1993-08-15,"$46,113.9","$20,960.9",48,,,,,,
+Northern Plains and Ohio Valley Severe Weather (July 1993),Severe Storm,1993-07-08,1993-07-10,"$1,397.5",$644.0,1,,,,,,1397.5
+California Wildfires (Fall 1993),Wildfire,1993-09-01,1993-11-30,"$2,962.4","$1,371.5",4,,,,,,2962.4
+"Winter Storm, Cold Wave (January 1994)",Winter Storm,1994-01-17,1994-01-20,"$2,236.3","$1,040.0",70,,,,,,2236.3
+Southeast Ice Storm (February 1994),Winter Storm,1994-02-08,1994-02-13,"$6,414.5","$2,997.5",9,,,,,,6414.5
+Midwest/Plains Tornadoes (April 1994),Severe Storm,1994-04-25,1994-04-27,"$2,098.3",$985.1,3,,,,,,2098.3
+Western Fire Season (Summer-Fall 1994),Wildfire,1994-06-01,1994-11-30,"$1,537.0",$725.0,0,,,,,,1537
+Tropical Storm Alberto (July 1994),Tropical Cyclone,1994-07-07,1994-07-10,"$2,116.8",$998.5,32,,,,,,2116.8
+Texas Flooding (October 1994),Flooding,1994-10-16,1994-10-25,"$2,100.0","$1,000.0",19,,,,,,2100
+California Flooding (January-March 1995),Flooding,1995-01-01,1995-03-31,"$5,225.0","$2,500.0",27,,,,,,5225
+Texas Hail Storm (April 1995),Severe Storm,1995-04-28,1995-04-28,"$1,190.3",$575.0,0,,,,,,1190.3
+South Plains Severe Weather (May 1995),Severe Storm,1995-05-05,1995-05-07,"$11,302.1","$5,486.5",32,,,,,,11302.1
+"Central, Southern and Northeast Drought/Heat Wave (September 1995)",Drought,1995-07-01,1995-09-30,"$2,017.6",$984.0,872,,,,,,2017.6
+Hurricane Erin (August 1995),Tropical Cyclone,1995-08-01,1995-08-07,"$1,742.5",$850.0,6,,,,,,1742.5
+Hurricane Marilyn (September 1995),Tropical Cyclone,1995-09-15,1995-09-17,"$4,305.0","$2,100.0",13,,,,,,4305
+Hurricane Opal (October 1995),Tropical Cyclone,1995-10-04,1995-10-06,"$9,565.5","$4,689.0",27,,,,,,9565.5
+Blizzard/Floods (January 1996),Winter Storm,1996-01-01,1996-01-31,"$6,096.3","$3,003.0",187,,,,,,6096.3
+Pacific Northwest Severe Flooding (February 1996),Flooding,1996-02-07,1996-02-12,"$2,046.9","$1,008.3",9,,,,,,2046.9
+Southern Plains Drought (Spring-Summer 1996),Drought,1996-03-01,1996-08-31,"$3,636.7","$1,791.5",0,,,,,,3636.7
+Hurricane Fran (September 1996),Tropical Cyclone,1996-09-05,1996-09-08,"$9,963.9","$5,007.0",37,,,,,,9963.9
+New England Flooding (October 1996),Flooding,1996-10-19,1996-10-22,"$1,345.3",$676.0,1,,,,,,1345.3
+West Coast Flooding (December 1996-January 1997),Flooding,1997-01-01,1997-01-11,"$5,943.5","$3,017.0",36,,,,,,5943.5
+Northern Plains Flooding (Spring 1997),Flooding,1997-02-03,1997-05-24,"$7,242.7","$3,676.5",11,,,,,,7242.7
+Mississippi and Ohio Valley Severe Weather and Flooding (March 1997),Severe Storm,1997-02-28,1997-03-05,"$1,925.8",$977.5,67,,,,,,1925.8
+Western/Eastern Severe Weather and Flooding (Winter-Spring 1998),Severe Storm,1997-12-01,1998-02-28,"$1,958.8","$1,004.5",132,,,,,,1958.8
+Northeast Ice Storm (January 1998),Winter Storm,1998-01-05,1998-01-09,"$2,719.4","$1,401.8",16,,,,,,2719.4
+Minnesota Severe Storms/Hail (May 1998),Severe Storm,1998-05-15,1998-05-15,"$3,148.3","$1,631.3",1,,,,,,3148.3
+"Northern Plains and Great Lakes Derecho, Tornadoes (June 1998)",Severe Storm,1998-05-30,1998-06-02,"$2,197.3","$1,138.4",20,,,,,,2197.3
+Southern Drought and Heat Wave (Summer 1998),Drought,1998-06-01,1998-08-31,"$6,844.3","$3,528.0",200,,,,,,6844.3
+Central and Eastern Severe Storms and Flooding (June 1998),Severe Storm,1998-06-20,1998-06-24,"$1,725.8",$894.0,12,,,,,,1725.8
+Tropical Storm Frances (September 1998),Tropical Cyclone,1998-08-08,1998-08-13,"$1,344.0",$700.0,2,,,,,,1344
+Hurricane Bonnie (August 1998),Tropical Cyclone,1998-08-27,1998-08-29,"$1,881.6",$980.0,3,,,,,,1881.6
+Hurricane Georges (September 1998),Tropical Cyclone,1998-09-20,1998-09-29,"$11,490.2","$5,984.5",16,,,,,,11490.2
+Texas Flooding (October 1998),Flooding,1998-10-16,1998-10-24,"$1,808.8",$942.1,31,,,,,,1808.8
+California Freeze (December 1998),Freeze,1998-12-20,1998-12-28,"$4,850.0","$2,500.0",0,,,,,,4850
+Central and Eastern Winter Storm (January 1999),Winter Storm,1999-01-01,1999-01-04,"$1,972.1","$1,032.5",25,,,,,,1972.1
+Central and Eastern Winter Storm (Mid-January 1999),Winter Storm,1999-01-13,1999-01-16,"$1,684.8",$882.0,0,,,,,,1684.8
+Oklahoma and Kansas Tornadoes (May 1999),Severe Storm,1999-05-03,1999-05-06,"$3,802.9","$2,012.1",55,,,,,,3802.9
+Eastern Drought/Heat Wave (Summer 1999),Drought,1999-06-01,1999-08-31,"$4,772.8","$2,498.9",502,,,,,,4772.8
+Hurricane Floyd (September 1999),Tropical Cyclone,1999-09-14,1999-09-16,"$12,138.1","$6,491.0",77,,,,,,12138.1
+Southeast Winter Storm (January 2000),Winter Storm,2000-01-21,2000-01-24,"$1,313.2",$706.0,4,,,,,,1313.2
+Western Fire Season (Spring-Summer 2000),Wildfire,2000-03-01,2000-08-31,"$1,967.4","$1,075.0",0,,,,,,1967.4
+Western/Central/Southeast Drought/Heat Wave (Spring-Fall 2000),Drought,2000-03-01,2000-11-30,"$9,294.5","$4,997.2",140,,,,,,9294.5
+Southern Severe Weather (March 2000),Severe Storm,2000-03-28,2000-03-29,"$1,262.7",$690.0,0,,,,,,1262.7
+South Florida Flooding (October 2000),Flooding,2000-10-03,2000-10-04,"$1,620.0",$900.0,3,,,,,,1620
+Midwest/Ohio Valley Hail and Tornadoes (April 2001),Severe Storm,2001-04-06,2001-04-11,"$5,508.7","$3,094.8",3,,,,,,5508.7
+North Central Severe Weather (May 2001),Severe Storm,2001-04-30,2001-05-01,"$1,194.3",$671.0,0,,,,,,1194.3
+Tropical Storm Allison (June 2001),Tropical Cyclone,2001-06-05,2001-06-17,"$14,998.7","$8,522.0",43,,,,,,14998.7
+U.S. Drought (Spring-Fall 2002),Drought,2002-03-01,2002-11-30,"$15,941.5","$9,006.4",0,,,,,,15941.5
+Severe Storms and Tornadoes (April 2002),Severe Storm,2002-04-27,2002-04-28,"$3,663.9","$2,093.8",7,,,,,,3663.9
+Hurricane Lili (October 2002),Tropical Cyclone,2002-08-01,2002-08-05,"$1,921.9","$1,104.5",2,,,,,,1921.9
+Western Fire Season (Fall 2002),Wildfire,2002-09-01,2002-11-30,"$2,301.8","$1,322.8",21,,,,,,2301.8
+Tropical Storm Isidore (September 2002),Tropical Cyclone,2002-09-25,2002-09-27,"$2,001.0","$1,150.0",5,,,,,,2001
+Eastern Tornadoes and Severe Storms (November 2002),Severe Storm,2002-11-09,2002-11-11,"$1,245.6",$720.0,28,,,,,,1245.6
+Western/Central Drought/Heat Wave (Spring-Fall 2003),Drought,2003-03-01,2003-11-30,"$8,680.8","$5,017.7",35,,,,,,8680.8
+Severe Storms/Hail (April 2003),Severe Storm,2003-04-04,2003-04-07,"$3,430.8","$2,006.3",3,,,,,,3430.8
+Severe Storms/Tornadoes (May 2003),Severe Storm,2003-05-03,2003-05-10,"$7,059.5","$4,128.4",51,,,,,,7059.5
+Midwest/Plains Severe Weather (July 2003),Severe Storm,2003-07-04,2003-07-09,"$1,467.3",$858.1,7,,,,,,1467.3
+Southern Derecho and Eastern Severe Weather (July 2003),Severe Storm,2003-07-21,2003-07-23,"$1,723.9","$1,008.2",7,,,,,,1723.9
+California Wildfires (Fall 2003),Wildfire,2003-09-01,2003-11-30,"$6,613.7","$3,890.4",22,,,,,,6613.7
+Hurricane Isabel (September 2003),Tropical Cyclone,2003-09-18,2003-09-19,"$9,322.9","$5,484.0",55,,,,,,9322.9
+"Severe Storms, Hail, Tornadoes (May 2004)",Severe Storm,2004-05-21,2004-05-27,"$1,682.9","$1,013.9",4,,,,,,1682.9
+Colorado Hail Storms (June 2004),Severe Storm,2004-06-08,2004-06-09,"$1,153.7",$695.0,0,,,,,,1153.7
+Hurricane Charley (August 2004),Tropical Cyclone,2004-08-13,2004-08-14,"$26,559.2","$15,999.5",35,,,,,,26559.2
+Hurricane Frances (September 2004),Tropical Cyclone,2004-09-03,2004-09-09,"$16,170.0","$9,800.0",48,,,,,,16170
+Hurricane Ivan (September 2004),Tropical Cyclone,2004-09-12,2004-09-21,"$33,825.8","$20,500.5",57,,,,,,33825.8
+Hurricane Jeanne (September 2004),Tropical Cyclone,2004-09-15,2004-09-29,"$12,369.3","$7,496.5",28,,,,,,12369.3
+Midwest Drought (Spring-Summer 2005),Drought,2005-03-01,2005-08-31,"$2,433.6","$1,474.8",0,,,,,,2433.6
+Southeast Severe Weather (March 2005),Severe Storm,2005-03-24,2005-03-27,"$1,401.3",$865.0,0,,,,,,1401.3
+Hurricane Dennis (July 2005),Tropical Cyclone,2005-07-09,2005-07-11,"$4,017.0","$2,495.0",15,,,,,,4017
+Hurricane Katrina (August 2005),Tropical Cyclone,2005-08-25,2005-08-30,"$200,047.3","$125,029.5",1833,,,,,,
+Hurricane Rita (September 2005),Tropical Cyclone,2005-09-20,2005-09-24,"$29,230.2","$18,500.1",119,,,,,,29230.2
+Hurricane Wilma (October 2005),Tropical Cyclone,2005-10-24,2005-10-24,"$30,020.0","$19,000.0",35,,,,,,30020
+Numerous Wildfires (2006),Wildfire,2006-01-01,2006-12-31,"$2,318.1","$1,467.1",28,,,,,,2318.1
+Midwest/Plains/Southeast Drought (Spring-Summer 2006),Drought,2006-03-01,2006-08-31,"$9,476.8","$5,997.9",0,,,,,,9476.8
+Severe Storms and Tornadoes (March 2006),Severe Storm,2006-03-08,2006-03-13,"$2,100.1","$1,337.5",10,,,,,,2100.1
+"Midwest/Southeast Tornadoes (April 6-8, 2006)",Severe Storm,2006-04-06,2006-04-08,"$2,502.0","$1,603.8",10,,,,,,2502
+Midwest Tornadoes (April 2006),Severe Storm,2006-04-13,2006-04-16,"$3,780.6","$2,423.5",27,,,,,,3780.6
+Northeast Flooding (June 2006),Flooding,2006-06-25,2006-06-28,"$2,358.5","$1,521.6",20,,,,,,2358.5
+North Central Severe Weather and Tornadoes (August 2006),Severe Storm,2006-08-23,2006-08-24,"$1,168.9",$759.0,1,,,,,,1168.9
+Central Severe Weather (October 2006),Severe Storm,2006-10-02,2006-10-05,"$1,371.3",$879.0,1,,,,,,1371.3
+California Freeze (January 2007),Freeze,2007-01-11,2007-01-17,"$2,170.0","$1,400.0",1,,,,,,2170
+Spring Freeze (April 2007),Freeze,2007-04-04,2007-04-10,"$3,168.6","$2,044.0",0,,,,,,3168.6
+East/South Severe Weather and Flooding (April 2007),Severe Storm,2007-04-13,2007-04-17,"$3,811.8","$2,507.8",9,,,,,,3811.8
+Western Wildfires (Summer 2007),Wildfire,2007-06-01,2007-08-31,"$4,139.4","$2,741.3",12,,,,,,4139.4
+Western/Eastern Drought/Heat Wave (Summer-Fall 2007),Drought,2007-06-01,2007-11-30,"$5,484.6","$3,538.3",15,,,,,,5484.6
+U.S. Drought (2008),Drought,2008-01-01,2008-12-31,"$10,444.7","$7,009.8",0,,,,,,10444.7
+"Western, Central and Northeast Severe Weather (January 2008)",Severe Storm,2008-01-04,2008-01-09,"$1,463.3",$982.0,12,,,,,,1463.3
+Southeast Tornadoes and Severe Weather (February 2008),Severe Storm,2008-02-05,2008-02-06,"$1,793.2","$1,211.6",57,,,,,,1793.2
+Southeast Tornadoes (March 2008),Severe Storm,2008-03-14,2008-03-15,"$1,662.6","$1,131.0",5,,,,,,1662.6
+Midwest Flooding (Summer 2008),Flooding,2008-04-01,2008-06-30,"$14,838.0","$9,958.4",24,,,,,,14838
+Southern Severe Weather (April 2008),Severe Storm,2008-04-09,2008-04-11,"$1,517.9","$1,039.6",2,,,,,,1517.9
+Midwest Tornadoes and Severe Weather (May 2008),Severe Storm,2008-05-22,2008-05-27,"$4,392.8","$3,029.5",13,,,,,,4392.8
+Midwest/Mid-Atlantic Severe Weather (June 2008),Severe Storm,2008-06-06,2008-06-12,"$2,355.7","$1,635.9",18,,,,,,2355.7
+Hurricane Dolly (July 2008),Tropical Cyclone,2008-07-23,2008-07-25,"$1,812.2","$1,267.3",3,,,,,,1812.2
+Hurricane Gustav (September 2008),Tropical Cyclone,2008-08-31,2008-09-03,"$8,575.7","$5,997.0",53,,,,,,8575.7
+U.S. Wildfires (Fall 2008),Wildfire,2008-09-01,2008-11-30,"$1,777.0","$1,234.0",16,,,,,,1777
+Hurricane Ike (September 2008),Tropical Cyclone,2008-09-12,2008-09-14,"$43,198.4","$29,998.8",112,,,,,,
+Southwest/Great Plains Drought (2009),Drought,2009-01-01,2009-12-31,"$5,203.2","$3,492.0",0,,,,,,5203.2
+Southeast/Ohio Valley Severe Weather (February 2009),Severe Storm,2009-02-10,2009-02-11,"$2,575.4","$1,740.2",10,,,,,,2575.4
+Midwest/Southeast Tornadoes (March 2009),Severe Storm,2009-03-25,2009-03-28,"$2,427.9","$1,640.5",0,,,,,,2427.9
+South/Southeast Severe Weather and Tornadoes (April 2009),Severe Storm,2009-04-09,2009-04-10,"$2,102.3","$1,430.1",6,,,,,,2102.3
+Central Derecho and Tornadoes (May 2009),Severe Storm,2009-05-07,2009-05-09,"$1,265.8",$861.0,7,,,,,,1265.8
+Western Wildfires (Summer-Fall 2009),Wildfire,2009-06-01,2009-11-30,"$1,477.4","$1,011.9",10,,,,,,1477.4
+"Midwest, South and East Severe Weather (June 2009)",Severe Storm,2009-06-09,2009-06-12,"$1,939.0","$1,328.1",0,,,,,,1939
+Colorado Hail Storm (July 2009),Severe Storm,2009-07-20,2009-07-20,"$1,460.0","$1,000.0",0,,,,,,1460
+Georgia Flooding (September 2009),Flooding,2009-09-19,2009-09-22,"$1,302.8",$898.5,10,,,,,,1302.8
+Northeast Winter Storm (February 2010),Winter Storm,2010-02-09,2010-02-11,"$1,184.8",$817.0,3,,,,,,1184.8
+Northeast Flooding (March 2010),Flooding,2010-03-01,2010-03-31,"$2,674.0","$1,844.2",11,,,,,,2674
+East/South Flooding and Severe Weather (May 2010),Flooding,2010-04-30,2010-05-02,"$3,286.2","$2,266.3",32,,,,,,3286.2
+"Oklahoma, Kansas, and Texas Tornadoes and Severe Weather (May 2010)",Severe Storm,2010-05-10,2010-05-12,"$4,800.7","$3,333.8",3,,,,,,4800.7
+Rockies/Central/East Severe Weather (June 2010),Severe Storm,2010-06-10,2010-06-15,"$1,297.5",$901.0,2,,,,,,1297.5
+Midwest/Northeast Severe Storms and Flooding (July 2010),Severe Storm,2010-07-20,2010-07-23,"$1,365.6",$948.3,0,,,,,,1365.6
+Arizona Severe Weather (October 2010),Severe Storm,2010-10-05,2010-10-06,"$5,472.0","$3,800.0",0,,,,,,5472
+Groundhog Day Blizzard (February 2011),Winter Storm,2011-02-01,2011-02-03,"$2,565.7","$1,794.2",36,,,,,,2565.7
+Southern Plains/Southwest Drought and Heat Wave (Spring-Summer 2011),Drought,2011-03-01,2011-08-31,"$17,109.5","$11,964.8",95,,,,,,17109.5
+Mississippi River flooding (April-May 2011),Flooding,2011-04-01,2011-05-31,"$4,270.1","$2,986.0",7,,,,,,4270.1
+Midwest/Southeast Tornadoes and Derecho (April 2011),Severe Storm,2011-04-04,2011-04-05,"$3,885.3","$2,775.2",9,,,,,,3885.3
+Southeast/Midwest Tornadoes (April 2011),Severe Storm,2011-04-08,2011-04-11,"$3,051.0","$2,179.3",0,,,,,,3051
+Midwest/Southeast Tornadoes (April 2011),Severe Storm,2011-04-14,2011-04-16,"$2,882.9","$2,059.2",38,,,,,,2882.9
+Ohio Valley Derecho and Southern Tornadoes (April 2011),Severe Storm,2011-04-19,2011-04-20,"$1,452.8","$1,037.5",0,,,,,,1452.8
+Southeast/Ohio Valley/Midwest Tornadoes (April 2011),Severe Storm,2011-04-25,2011-04-28,"$14,310.7","$10,222.0",321,,,,,,14310.7
+Missouri River flooding (May-June 2011),Flooding,2011-05-01,2011-06-30,"$2,863.3","$2,002.3",5,,,,,,2863.3
+Midwest/Southeast Tornadoes (May 2011),Severe Storm,2011-05-22,2011-05-27,"$12,644.5","$9,096.8",177,,,,,,12644.5
+"Texas, New Mexico, Arizona Wildfires (Summer-Fall 2011)",Wildfire,2011-06-01,2011-11-30,"$2,530.8","$1,820.8",5,,,,,,2530.8
+Midwest/Southeast Tornadoes and Severe Weather (June 2011),Severe Storm,2011-06-18,2011-06-22,"$2,136.6","$1,537.3",3,,,,,,2136.6
+"North Central Severe Weather (July 1, 2011)",Severe Storm,2011-07-01,2011-07-01,"$1,234.4",$888.0,0,,,,,,1234.4
+"Rockies and Midwest Derecho (July 10-11, 2011)",Severe Storm,2011-07-10,2011-07-11,"$1,716.6","$1,235.0",2,,,,,,1716.6
+"Midwest/Southeast Severe Weather (August 17-18, 2011)",Severe Storm,2011-08-17,2011-08-18,"$1,600.4","$1,151.4",0,,,,,,1600.4
+Hurricane Irene (August 2011),Tropical Cyclone,2011-08-26,2011-08-28,"$18,756.7","$13,494.0",45,,,,,,18756.7
+Tropical Storm Lee (September 2011),Tropical Cyclone,2011-09-01,2011-09-05,"$3,467.3","$2,512.5",21,,,,,,3467.3
+Northeastern Winter Storm (October 2011),Winter Storm,2011-10-29,2011-10-30,"$1,285.8",$925.0,1,,,,,,1285.8
+U.S. Drought/Heat Wave (2012),Drought,2012-01-01,2012-12-31,"$41,705.2","$30,003.6",123,,,,,,
+Southeast/Ohio Valley Tornadoes (March 2012),Severe Storm,2012-03-02,2012-03-03,"$4,286.4","$3,128.8",42,,,,,,4286.4
+Texas Tornadoes (April 2012),Severe Storm,2012-04-02,2012-04-03,"$1,390.9","$1,015.3",0,,,,,,1390.9
+Midwest Tornadoes (April 2012),Severe Storm,2012-04-13,2012-04-14,"$1,539.4","$1,123.6",6,,,,,,1539.4
+Midwest/Ohio Valley Severe Weather (April-May 2012),Severe Storm,2012-04-28,2012-05-01,"$4,488.6","$3,276.3",1,,,,,,4488.6
+Southern Plains/Midwest/Northeast Severe Weather (May 2012),Severe Storm,2012-05-25,2012-05-30,"$3,156.1","$2,303.7",1,,,,,,3156.1
+Western Wildfires (Summer-Fall 2012),Wildfire,2012-06-01,2012-11-30,"$2,381.7","$1,738.5",8,,,,,,2381.7
+Rockies/Southwest Severe Weather (June 2012),Severe Storm,2012-06-06,2012-06-12,"$3,559.0","$2,597.8",0,,,,,,3559
+Plains/East/Northeast Derecho (June-July 2012),Severe Storm,2012-06-29,2012-07-02,"$3,957.0","$2,888.4",28,,,,,,3957
+Hurricane Isaac (August 2012),Tropical Cyclone,2012-08-26,2012-08-31,"$3,758.4","$2,763.5",9,,,,,,3758.4
+Hurricane Sandy (October 2012),Tropical Cyclone,2012-10-30,2012-10-31,"$88,453.9","$65,039.6",159,,,,,,
+Southern Severe Weather (February 2013),Severe Storm,2013-02-24,2013-02-25,"$1,244.8",$922.0,1,,,,,,1244.8
+Western/Plains Drought/Heat Wave (Spring-Fall 2013),Drought,2013-03-01,2013-11-30,"$14,179.3","$10,425.9",53,,,,,,14179.3
+Southeast Severe Weather (March 2013),Severe Storm,2013-03-18,2013-03-18,"$2,727.0","$2,020.0",1,,,,,,2727
+Midwest/Plains Severe Weather (April 2013),Severe Storm,2013-04-07,2013-04-11,"$1,949.4","$1,444.0",1,,,,,,1949.4
+Illinois Flooding and Severe Weather (April 2013),Flooding,2013-04-16,2013-04-19,"$1,454.1","$1,077.0",4,,,,,,1454.1
+Midwest/Plains/East Tornadoes (May 2013),Severe Storm,2013-05-18,2013-05-22,"$3,240.5","$2,400.3",27,,,,,,3240.5
+Midwest/Plains/Northeast Tornadoes (May 2013),Severe Storm,2013-05-27,2013-05-31,"$2,448.4","$1,813.5",10,,,,,,2448.4
+Midwest Severe Weather (August 2013),Severe Storm,2013-08-06,2013-08-07,"$1,396.2","$1,041.9",0,,,,,,1396.2
+Colorado Flooding (September 2013),Flooding,2013-09-10,2013-09-16,"$2,021.4","$1,508.5",9,,,,,,2021.4
+Ohio Valley Tornadoes (November 2013),Severe Storm,2013-11-17,2013-11-17,"$1,472.2","$1,090.6",8,,,,,,1472.2
+Western Drought (2014),Drought,2014-01-01,2014-12-31,"$5,295.5","$3,951.7",0,,,,,,5295.5
+Midwest/Southeast/Northeast Winter Storm (January 2014),Winter Storm,2014-01-05,2014-01-08,"$2,911.5","$2,172.7",16,,,,,,2911.5
+Plains Severe Weather (April 2014),Severe Storm,2014-04-02,2014-04-03,"$1,893.8","$1,424.0",0,,,,,,1893.8
+Central Severe Weather (April 2014),Severe Storm,2014-04-12,2014-04-13,"$1,211.7",$918.0,0,,,,,,1211.7
+Midwest/Southeast/Northeast Tornadoes and Flooding (April 2014),Severe Storm,2014-04-27,2014-05-01,"$2,291.6","$1,736.1",33,,,,,,2291.6
+Center Severe Weather (May 2014),Severe Storm,2014-05-10,2014-05-14,"$1,126.0",$853.0,0,,,,,,1126
+Rockies/Midwest/Eastern Severe Weather (May 2014),Severe Storm,2014-05-18,2014-05-23,"$4,901.4","$3,713.2",0,,,,,,4901.4
+Rockies/Central Plains Severe Weather (June 2014),Severe Storm,2014-06-03,2014-06-05,"$2,533.4","$1,919.2",2,,,,,,2533.4
+Michigan and Northeast Flooding (August 2014),Flooding,2014-08-11,2014-08-13,"$1,361.9","$1,031.7",2,,,,,,1361.9
+Rockies/Plains Severe Weather (September 2014),Severe Storm,2014-09-29,2014-10-02,"$1,848.6","$1,400.4",0,,,,,,1848.6
+Western Drought (2015),Drought,2015-01-01,2015-12-31,"$5,984.4","$4,466.0",0,,,,,,5984.4
+"Central and Eastern Winter storm, Cold Wave (February 2015)",Winter Storm,2015-02-14,2015-02-20,"$3,969.3","$2,962.1",30,,,,,,3969.3
+Midwest/Ohio Valley Severe Weather (April 2015),Severe Storm,2015-04-07,2015-04-09,"$2,069.0","$1,555.6",2,,,,,,2069
+South/Southeast Severe Weather (April 2015),Severe Storm,2015-04-18,2015-04-20,"$1,707.6","$1,283.9",0,,,,,,1707.6
+South and Southeast Severe Weather (April 2015),Severe Storm,2015-04-24,2015-04-25,"$1,255.8",$944.0,3,,,,,,1255.8
+Southern Plains Tornadoes (May 2015),Severe Storm,2015-05-06,2015-05-10,"$1,679.2","$1,272.1",4,,,,,,1679.2
+Texas and Oklahoma Flooding and Severe Weather (May 2015),Flooding,2015-05-23,2015-05-26,"$3,350.7","$2,500.4",31,,,,,,3350.7
+Western and Alaskan Wildfires (Summer-Fall 2015),Wildfire,2015-06-01,2015-11-30,"$3,996.9","$3,028.0",12,,,,,,3996.9
+Central and Northeast Severe Weather (June 2015),Severe Storm,2015-06-21,2015-06-25,"$1,547.1","$1,172.0",1,,,,,,1547.1
+South Carolina and East Coast Flooding (October 2015),Flooding,2015-10-01,2015-10-05,"$2,637.7","$1,998.2",25,,,,,,2637.7
+Texas Tornadoes and Midwest Flooding (December 2015),Severe Storm,2015-12-26,2015-12-29,"$2,609.3","$1,961.9",50,,,,,,2609.3
+West/Northeast/Southeast Drought (2016),Drought,2016-01-01,2016-12-31,"$4,580.0","$3,443.5",0,,,,,,4580
+Southeast and Eastern Tornadoes (February 2016),Severe Storm,2016-02-22,2016-02-24,"$1,372.8","$1,040.0",10,,,,,,1372.8
+Texas and Louisiana Flooding (March 2016),Flooding,2016-03-08,2016-03-12,"$3,029.1","$2,294.8",5,,,,,,3029.1
+Southern Severe Weather (March 2016),Severe Storm,2016-03-17,2016-03-18,"$1,597.6","$1,210.3",1,,,,,,1597.6
+North Texas Hail Storm (March 2016),Severe Storm,2016-03-23,2016-03-24,"$2,725.5","$2,064.8",0,,,,,,2725.5
+North/Central Texas Hail Storm (April 2016),Severe Storm,2016-04-10,2016-04-12,"$4,583.2","$3,498.6",0,,,,,,4583.2
+Houston Flooding (April 2016),Flooding,2016-04-17,2016-04-18,"$3,559.1","$2,676.0",8,,,,,,3559.1
+South/Southeast Tornadoes (April 2016),Severe Storm,2016-04-26,2016-05-02,"$3,136.7","$2,394.5",6,,,,,,3136.7
+Plains Tornadoes and Central Severe Weather (May 2016),Severe Storm,2016-05-08,2016-05-11,"$2,252.9","$1,719.6",2,,,,,,2252.9
+Rockies/Central Tornadoes and Severe Weather (May 2016),Severe Storm,2016-05-21,2016-05-26,"$1,501.5","$1,146.3",0,,,,,,1501.5
+Western/Southeast Wildfires (Summer-Fall 2016),Wildfire,2016-06-01,2016-12-31,"$3,113.5","$2,395.0",21,,,,,,3113.5
+West Virginia Flooding and Ohio Valley Tornadoes (June 2016),Flooding,2016-06-22,2016-06-24,"$1,288.5",$968.8,23,,,,,,1288.5
+Rockies and Northeast Severe Weather (July 2016),Severe Storm,2016-07-28,2016-07-30,"$1,920.0","$1,465.6",0,,,,,,1920
+Louisiana Flooding (August 2016),Flooding,2016-08-12,2016-08-15,"$13,300.0","$10,000.0",13,,,,,,13300
+Hurricane Matthew (October 2016),Tropical Cyclone,2016-10-08,2016-10-12,"$13,000.0","$10,000.0",49,,,,,,13000
+Southern Tornado Outbreak and Western Storms (January 2017),Severe Storm,2017-01-20,2017-01-22,"$1,425.6","$1,105.0",24,,,,,,1425.6
+California Flooding (February 2017),Flooding,2017-02-08,2017-02-22,"$1,935.0","$1,500.0",5,,,,,,1935
+Central/Southeast Tornado Outbreak (March 2017),Severe Storm,2017-02-28,2017-03-01,"$2,329.9","$1,806.0",6,,,,,,2329.9
+"North Dakota, South Dakota and Montana Drought (Spring-Fall 2017)",Drought,2017-03-01,2017-12-31,"$3,225.0","$2,500.0",0,,,,,,3225
+Midwest Tornado Outbreak (March 2017),Severe Storm,2017-03-06,2017-03-08,"$2,807.2","$2,176.0",2,,,,,,2807.2
+Southeast Freeze (March 2017),Freeze,2017-03-14,2017-03-16,"$1,290.0","$1,000.0",0,,,,,,1290
+South/Southeast Severe Weather (March 2017),Severe Storm,2017-03-26,2017-03-28,"$3,476.6","$2,695.0",0,,,,,,3476.6
+Southeast Severe Weather and Tornadoes (April 2017),Severe Storm,2017-04-04,2017-04-06,"$1,249.3",$976.0,1,,,,,,1249.3
+South and Southeast Severe Weather (April 2017),Severe Storm,2017-04-20,2017-04-22,"$1,143.0",$893.0,0,,,,,,1143
+Missouri and Arkansas Flooding and Central Severe Weather (May 2017),Flooding,2017-04-25,2017-05-07,"$2,140.3","$1,659.0",20,,,,,,2140.3
+Colorado Hail Storm and Central Severe Weather (May 2017),Severe Storm,2017-05-08,2017-05-11,"$4,288.0","$3,350.0",0,,,,,,4288
+North Central Severe Weather and Tornadoes (May 2017),Severe Storm,2017-05-15,2017-05-18,"$1,204.5",$941.0,1,,,,,,1204.5
+"Western Wildfires, California Firestorm (Summer-Fall 2017)",Wildfire,2017-06-01,2017-12-31,"$23,046.4","$18,005.0",54,,,,,,23046.4
+Minnesota Hail Storm and Upper Midwest Severe Weather (June 2017),Severe Storm,2017-06-09,2017-06-11,"$3,008.0","$2,350.0",0,,,,,,3008
+Midwest Severe Weather (June 2017),Severe Storm,2017-06-12,2017-06-16,"$1,931.5","$1,509.0",0,,,,,,1931.5
+Midwest Severe Weather (June 2017),Severe Storm,2017-06-27,2017-06-29,"$1,824.0","$1,425.0",0,,,,,,1824
+Hurricane Harvey (August 2017),Tropical Cyclone,2017-08-25,2017-08-31,"$158,750.0","$125,000.0",89,,,,,,
+Hurricane Irma (September 2017),Tropical Cyclone,2017-09-06,2017-09-12,"$63,500.0","$50,000.0",97,,,,,,
+Hurricane Maria (September 2017),Tropical Cyclone,2017-09-19,2017-09-21,"$114,300.0","$90,000.0",2981,,,,,,
+Central and Eastern Winter Storm (January 2018),Winter Storm,2018-01-03,2018-01-05,"$1,324.6","$1,043.0",22,,,,,,1324.6
+Northeast Winter Storm (March 2018),Winter Storm,2018-03-01,2018-03-03,"$2,764.5","$2,194.0",9,,,,,,2764.5
+Southeastern Tornadoes and Severe Weather (March 2018),Severe Storm,2018-03-18,2018-03-21,"$1,829.5","$1,452.0",0,,,,,,1829.5
+Southern and Eastern Tornadoes and Severe Weather (April 2018),Severe Storm,2018-04-13,2018-04-16,"$1,647.8","$1,318.0",3,,,,,,1647.8
+Central and Northeast Severe Weather (May 2018),Severe Storm,2018-05-01,2018-05-04,"$1,737.9","$1,390.0",0,,,,,,1737.9
+Central and Eastern Severe Weather (May 2018),Severe Storm,2018-05-13,2018-05-15,"$1,712.9","$1,370.0",5,,,,,,1712.9
+Southwest/Southern Plains Drought (Summer-Fall 2018),Drought,2018-06-01,2018-12-30,"$3,797.4","$2,990.0",0,,,,,,3797.4
+"Western Wildfires, California Firestorm (Summer-Fall 2018)",Wildfire,2018-06-01,2018-12-31,"$30,000.0","$24,000.0",106,,,,,,30000
+Texas Hail Storm (June 2018),Severe Storm,2018-06-06,2018-06-06,"$1,625.0","$1,300.0",0,,,,,,1625
+Colorado Hail Storm (June 2018),Severe Storm,2018-06-13,2018-06-13,"$1,193.8",$955.0,0,,,,,,1193.8
+Colorado Hail Storm (June 2018),Severe Storm,2018-06-18,2018-06-19,"$2,778.8","$2,223.0",0,,,,,,2778.8
+Central and Eastern Tornadoes and Severe Weather (July 2018),Severe Storm,2018-07-19,2018-07-22,"$1,981.6","$1,585.0",0,,,,,,1981.6
+Mountain West Severe Weather (July 2018),Severe Storm,2018-07-26,2018-07-29,"$1,063.8",$851.0,0,,,,,,1063.8
+Rockies and Plains Hail Storms (August 2018),Severe Storm,2018-08-06,2018-08-07,"$1,281.4","$1,025.0",0,,,,,,1281.4
+Hurricane Florence (September 2018),Tropical Cyclone,2018-09-13,2018-09-16,"$29,760.0","$24,000.0",53,,,,,,29760
+Hurricane Michael (October 2018),Tropical Cyclone,2018-10-10,2018-10-11,"$30,969.0","$24,975.0",49,,,,,,30969
+"Southeast, Ohio Valley and Northeast Severe Weather (February 2019)",Severe Storm,2019-02-23,2019-02-25,"$1,534.3","$1,237.5",2,,,,,,1534.3
+Missouri River and North Central Flooding (March 2019),Flooding,2019-03-14,2019-03-31,"$13,408.9","$10,727.0",3,,,,,,13408.9
+"Mississippi River, Midwest and Southern Flooding (July 2019)",Flooding,2019-03-15,2019-07-31,"$7,649.6","$6,169.0",4,,,,,,7649.6
+Texas Hail Storm (March 2019),Severe Storm,2019-03-22,2019-03-24,"$1,903.4","$1,535.0",0,,,,,,1903.4
+Southern and Eastern Tornadoes and Severe Weather (April 2019),Severe Storm,2019-04-13,2019-04-14,"$1,540.0","$1,252.0",7,,,,,,1540
+South and Southeast Severe Weather (May 2019),Severe Storm,2019-05-07,2019-05-13,"$1,862.4","$1,514.0",0,,,,,,1862.4
+Central Severe Weather (May 2019),Severe Storm,2019-05-16,2019-05-18,"$1,196.9",$973.0,0,,,,,,1196.9
+Arkansas River Flooding (June 2019),Flooding,2019-05-20,2019-06-14,"$3,720.8","$3,025.0",5,,,,,,3720.8
+"Rockies, Central and Northeast Tornadoes and Severe Weather (May 2019)",Severe Storm,2019-05-26,2019-05-29,"$5,655.6","$4,598.0",3,,,,,,5655.6
+California and Alaska Wildfires (Summer-Fall 2019),Wildfire,2019-06-01,2019-11-30,"$5,535.0","$4,500.0",3,,,,,,5535
+Colorado Hail Storms (July 2019),Severe Storm,2019-07-04,2019-07-05,"$1,229.8","$1,008.0",0,,,,,,1229.8
+Hurricane Dorian (September 2019),Tropical Cyclone,2019-08-28,2019-09-06,"$1,964.2","$1,610.0",10,,,,,,1964.2
+Tropical Storm Imelda (September 2019),Tropical Cyclone,2019-09-17,2019-09-21,"$6,100.0","$5,000.0",5,,,,,,6100
+Texas Tornadoes and Central Severe Weather (October 2019),Severe Storm,2019-10-20,2019-10-20,"$2,095.9","$1,718.0",2,,,,,,2095.9
+Southeast Tornadoes and Northern Storms and Flooding (January 2020),Severe Storm,2020-01-10,2020-01-12,"$1,401.8","$1,149.0",10,,,,,,1401.8
+"South, East and Northeast Severe Weather (February 2020)",Severe Storm,2020-02-05,2020-02-07,"$1,520.1","$1,256.0",3,,,,,,1520.1
+Tennessee Tornadoes and Southeast Severe Weather (March 2020),Severe Storm,2020-03-02,2020-03-04,"$2,850.0","$2,336.0",25,,,,,,2850
+Midwest and Ohio Valley Severe Weather (March 2020),Severe Storm,2020-03-27,2020-03-28,"$3,120.9","$2,558.0",0,,,,,,3120.9
+North Central and Ohio Valley Hail Storms and Severe Weather (April 2020),Severe Storm,2020-04-07,2020-04-08,"$3,514.8","$2,881.0",0,,,,,,3514.8
+Southeast and Eastern Tornado Outbreak (April 2020),Severe Storm,2020-04-12,2020-04-13,"$4,201.9","$3,444.0",35,,,,,,4201.9
+Southern Severe Weather (April 2020),Severe Storm,2020-04-21,2020-04-23,"$1,647.0","$1,350.0",3,,,,,,1647
+"Central, Southern and Eastern Severe Weather (April 2020)",Severe Storm,2020-04-27,2020-04-30,"$1,252.9","$1,027.0",1,,,,,,1252.9
+Central and Eastern Severe Weather (May 2020),Severe Storm,2020-05-03,2020-05-05,"$2,577.9","$2,113.0",2,,,,,,2577.9
+"South, Central and Eastern Severe Weather (May 2020)",Severe Storm,2020-05-20,2020-05-23,"$1,932.6","$1,584.0",2,,,,,,1932.6
+South Texas Hail Storms (May 2020),Severe Storm,2020-05-27,2020-05-27,"$1,708.0","$1,400.0",0,,,,,,1708
+Western/Central Drought and Heat Wave (Summer-Fall 2020),Drought,2020-06-01,2020-12-30,"$5,439.1","$4,495.0",45,,,,,,5439.1
+Central Severe Weather (July 2020),Severe Storm,2020-07-10,2020-07-11,"$1,447.4","$1,196.0",0,,,,,,1447.4
+Hurricane Hanna (July 2020),Tropical Cyclone,2020-07-25,2020-07-26,"$1,300.8","$1,075.0",0,,,,,,1300.8
+"Western Wildfires - California, Oregon, Washington Firestorms (Fall 2020)",Wildfire,2020-08-01,2020-12-30,"$19,904.5","$16,450.0",46,,,,,,19904.5
+Hurricane Isaias (August 2020),Tropical Cyclone,2020-08-03,2020-08-04,"$5,756.1","$4,757.0",16,,,,,,5756.1
+Central Severe Weather - Derecho (August 2020),Severe Storm,2020-08-10,2020-08-10,"$13,342.7","$11,027.0",4,,,,,,13342.7
+Hurricane Laura (August 2020),Tropical Cyclone,2020-08-27,2020-08-28,"$28,090.3","$23,215.0",42,,,,,,28090.3
+Hurricane Sally (September 2020),Tropical Cyclone,2020-09-15,2020-09-17,"$8,801.5","$7,274.0",5,,,,,,8801.5
+Hurricane Delta (October 2020),Tropical Cyclone,2020-10-09,2020-10-11,"$3,469.3","$2,867.0",5,,,,,,3469.3
+Hurricane Zeta (October 2020),Tropical Cyclone,2020-10-28,2020-10-29,"$5,266.0","$4,352.0",6,,,,,,5266
+Tropical Storm Eta (November 2020),Tropical Cyclone,2020-11-08,2020-11-12,"$1,766.7","$1,460.0",12,,,,,,1766.7
+Western Drought and Heat Wave (2021),Drought,2021-01-01,2021-12-31,"$10,117.2","$8,431.0",229,,,,,,10117.2
+California Flooding and Severe Weather (January 2021),Flooding,2021-01-24,2021-01-29,"$1,314.0","$1,095.0",2,,,,,,1314
+"Northwest, Central, Eastern Winter Storm and Cold Wave (February 2021)",Winter Storm,2021-02-10,2021-02-19,"$26,996.7","$22,686.0",262,,,,,,26996.7
+Southeast Tornadoes and Severe Weather (March 2021),Severe Storm,2021-03-24,2021-03-25,"$1,995.8","$1,677.0",6,,,,,,1995.8
+Eastern Severe Weather (March 2021),Severe Storm,2021-03-27,2021-03-28,"$1,601.9","$1,346.0",8,,,,,,1601.9
+Texas Hail Storms (April 2021),Severe Storm,2021-04-12,2021-04-15,"$1,755.3","$1,475.0",0,,,,,,1755.3
+Texas and Oklahoma Severe Weather (April 2021),Severe Storm,2021-04-27,2021-04-28,"$3,747.4","$3,149.0",0,,,,,,3747.4
+Southern Tornadoes and Southeast Severe Weather (May 2021),Severe Storm,2021-05-02,2021-05-04,"$1,479.1","$1,264.0",4,,,,,,1479.1
+Louisiana Flooding (May 2021),Flooding,2021-05-17,2021-05-18,"$1,569.6","$1,319.0",5,,,,,,1569.6
+Western Wildfires (2021),Wildfire,2021-06-01,2021-12-31,"$12,064.0","$10,400.0",8,,,,,,12064
+Ohio Valley Hail Storms (June 2021),Severe Storm,2021-06-17,2021-06-18,"$1,980.1","$1,707.0",0,,,,,,1980.1
+Central Severe Storms (June 2021),Severe Storm,2021-06-24,2021-06-26,"$1,453.6","$1,253.0",0,,,,,,1453.6
+Tropical Storm Elsa (July 2021),Tropical Cyclone,2021-07-07,2021-07-09,"$1,395.3","$1,213.0",1,,,,,,1395.3
+Central Severe Storms (July 2021),Severe Storm,2021-07-08,2021-07-11,"$1,242.2","$1,080.0",0,,,,,,1242.2
+North Central Severe Weather (August 2021),Severe Storm,2021-08-10,2021-08-13,"$1,476.9","$1,284.0",2,,,,,,1476.9
+Tropical Storm Fred (August 2021),Tropical Cyclone,2021-08-16,2021-08-18,"$1,468.9","$1,277.0",7,,,,,,1468.9
+Hurricane Ida (August 2021),Tropical Cyclone,2021-08-29,2021-09-01,"$84,608.1","$73,572.0",96,,,,,,
+Hurricane Nicholas (September 2021),Tropical Cyclone,2021-09-14,2021-09-18,"$1,168.5","$1,016.0",0,,,,,,1168.5
+"Southeast, Central Tornado Outbreak (December 2021)",Severe Storm,2021-12-10,2021-12-10,"$4,424.1","$3,915.0",93,,,,,,4424.1
+Midwest Derecho and Tornado Outbreak (December 2021),Severe Storm,2021-12-15,2021-12-15,"$2,013.8","$1,782.0",1,,,,,,2013.8
+Western/Central Drought and Heat Wave (2022),Drought,2022-01-01,2022-12-31,"$23,480.6","$20,965.0",136,,,,,,23480.6
+Texas Hail Storms (February 2022),Severe Storm,2022-02-21,2022-02-22,"$1,118.9","$1,008.0",0,,,,,,1118.9
+Southern Tornado Outbreak (March 2022),Severe Storm,2022-03-30,2022-03-30,"$1,369.4","$1,256.0",2,,,,,,1369.4
+Western Wildfires (Spring-Fall 2022),Wildfire,2022-04-01,2022-11-30,"$3,296.6","$3,110.0",17,,,,,,3296.6
+Southeast Tornado Outbreak (April 2022),Severe Storm,2022-04-04,2022-04-06,"$1,544.8","$1,417.0",3,,,,,,1544.8
+Southern Severe Weather (April 2022),Severe Storm,2022-04-11,2022-04-13,"$2,915.7","$2,675.0",1,,,,,,2915.7
+Southern and Central Severe Weather (May 2022),Severe Storm,2022-05-01,2022-05-03,"$1,218.9","$1,139.0",1,,,,,,1218.9
+North Central Hail Storms (May 2022),Severe Storm,2022-05-09,2022-05-09,"$2,354.4","$2,160.0",0,,,,,,2354.4
+North Central Severe Weather (May 2022),Severe Storm,2022-05-11,2022-05-12,"$2,949.6","$2,706.0",1,,,,,,2949.6
+North Central Hail Storms (May 2022),Severe Storm,2022-05-19,2022-05-19,"$2,601.4","$2,431.0",0,,,,,,2601.4
+Central Severe Weather (June 2022),Severe Storm,2022-06-07,2022-06-08,"$2,025.7","$1,911.0",0,,,,,,2025.7
+Central Derecho (June 2022),Severe Storm,2022-06-13,2022-06-13,"$3,386.6","$3,195.0",1,,,,,,3386.6
+North Central and Eastern Severe Weather (July 2022),Severe Storm,2022-07-22,2022-07-24,"$1,420.4","$1,340.0",1,,,,,,1420.4
+Kentucky and Missouri Flooding (July 2022),Flooding,2022-07-26,2022-07-28,"$1,552.9","$1,465.0",42,,,,,,1552.9
+Hurricane Fiona (September 2022),Tropical Cyclone,2022-09-17,2022-09-18,"$2,660.6","$2,510.0",25,,,,,,2660.6
+Hurricane Ian (September 2022),Tropical Cyclone,2022-09-28,2022-09-30,"$118,508.0","$111,800.0",152,,,,,,
+Hurricane Nicole (November 2022),Tropical Cyclone,2022-11-10,2022-11-11,"$1,071.0","$1,020.0",5,,,,,,1071
+Central and Eastern Winter Storm and Cold Wave (December 2022),Winter Storm,2022-12-21,2022-12-26,"$8,868.1","$8,445.0",87,,,,,,8868.1
+California Flooding (December 2022 - March 2023),Flooding,2022-12-26,2023-03-19,"$4,725.0","$4,500.0",22,,,,,,4725
+Northeastern Winter Storm/Cold Wave (February 2023),Winter Storm,2023-02-02,2023-02-05,"$1,821.1","$1,751.0",1,,,,,,1821.1
+Southern and Eastern Severe Weather (March 2023),Severe Storm,2023-03-02,2023-03-03,"$6,111.1","$5,876.0",13,,,,,,6111.1
+Southern and Eastern Severe Weather (April 2023),Severe Storm,2023-03-24,2023-03-26,"$2,927.6","$2,815.0",23,,,,,,2927.6
+Central Tornado Outbreak and Eastern Severe Weather (March 2023),Severe Storm,2023-03-31,2023-04-01,"$5,853.2","$5,628.0",33,,,,,,5853.2
+Southern/Midwestern Drought and Heatwave (Spring-Fall 2023),Drought,2023-04-01,2023-09-30,"$14,786.7","$14,082.0",247,,,,,,14786.7
+Central and Eastern Severe Weather (April 2023),Severe Storm,2023-04-04,2023-04-06,"$2,927.6","$2,815.0",5,,,,,,2927.6
+Fort Lauderdale Flash Flood (April 2023),Flooding,2023-04-12,2023-04-13,"$1,133.0","$1,100.0",0,,,,,,1133
+Central and Southern Severe Weather (April 2023),Severe Storm,2023-04-15,2023-04-15,"$1,388.3","$1,335.0",0,,,,,,1388.3
+Central Severe Weather (April 2023),Severe Storm,2023-04-19,2023-04-20,"$3,078.4","$2,960.0",1,,,,,,3078.4
+Southern Severe Weather (April 2023),Severe Storm,2023-04-25,2023-04-27,"$1,372.8","$1,320.0",0,,,,,,1372.8
+Central Severe Weather (May 2023),Severe Storm,2023-05-06,2023-05-08,"$2,222.5","$2,137.0",1,,,,,,2222.5
+Central and Eastern Tornadoes and Hail Storms (May 2023),Severe Storm,2023-05-10,2023-05-12,"$3,563.0","$3,426.0",1,,,,,,3563
+Texas Hail Storms (May 2023),Severe Storm,2023-05-18,2023-05-19,"$1,690.0","$1,625.0",0,,,,,,1690
+Typhoon Mawar (May 2023),Tropical Cyclone,2023-05-24,2023-05-25,"$4,377.5","$4,250.0",2,,,,,,4377.5
+Southern Severe Weather (June 2023),Severe Storm,2023-06-11,2023-06-14,"$4,153.1","$4,032.0",0,,,,,,4153.1
+Central and Southern Severe Weather (June 2023),Severe Storm,2023-06-15,2023-06-18,"$3,881.1","$3,768.0",5,,,,,,3881.1
+Rockies Hail Storms and Central and Eastern Severe Weather (June 2023),Severe Storm,2023-06-21,2023-06-26,"$5,401.4","$5,244.0",8,,,,,,5401.4
+Central Severe Weather (June 2023),Severe Storm,2023-06-28,2023-07-02,"$1,976.8","$1,919.0",3,,,,,,1976.8
+Northeastern Flooding and North Central Severe Weather (July 2023),Flooding,2023-07-09,2023-07-15,"$2,230.4","$2,165.0",10,,,,,,2230.4
+North Central and Southeastern Severe Weather (July 2023),Severe Storm,2023-07-19,2023-07-21,"$1,887.0","$1,832.0",1,,,,,,1887
+North Central and Eastern Severe Weather (July 2023),Severe Storm,2023-07-28,2023-07-29,"$1,526.6","$1,482.0",2,,,,,,1526.6
+Northeastern and Eastern Severe Weather (August 2023),Severe Storm,2023-08-05,2023-08-08,"$1,680.2","$1,631.0",4,,,,,,1680.2
+Hawaii Firestorm (August 2023),Wildfire,2023-08-08,2023-08-08,"$5,665.0","$5,500.0",100,,,,,,5665
+Minnesota Hail Storms (August 2023),Severe Storm,2023-08-11,2023-08-11,"$1,828.3","$1,775.0",0,,,,,,1828.3
+Hurricane Idalia (August 2023),Tropical Cyclone,2023-08-29,2023-08-31,"$3,559.7","$3,456.0",5,,,,,,3559.7
+Southern Hail Storms (September 2023),Severe Storm,2023-09-23,2023-09-24,"$1,694.5","$1,645.0",0,,,,,,1694.5
+East Coast Storm and Flooding (December 2023),Flooding,2023-12-16,2023-12-18,"$1,301.6","$1,276.0",5,,,,,,1301.6
+Southern Tornado Outbreak and East Coast Storm (January 2024),Severe Storm,2024-01-08,2024-01-10,"$2,780.2","$2,726.0",3,,,,,,2780.2
+Northwest Winter Storm (January 2024),Winter Storm,2024-01-12,2024-01-14,"$1,723.8","$1,690.0",20,,,,,,1723.8
+"Central, Southern, Northeastern Winter Storm and Cold Wave (January 2024)",Winter Storm,2024-01-14,2024-01-18,"$2,096.2","$2,055.0",41,,,,,,2096.2
+Southern Severe Weather (February 2024),Severe Storm,2024-02-10,2024-02-12,"$1,075.0","$1,054.0",0,,,,,,1075
+Central and Eastern Severe Weather (February 2024),Severe Storm,2024-02-27,2024-02-28,"$1,296.9","$1,284.0",0,,,,,,1296.9
+Central and Southern Severe Weather (March 2024),Severe Storm,2024-03-12,2024-03-14,"$5,949.0","$5,890.0",3,,,,,,5949
+Central Tornado Outbreak and Eastern Severe Weather (April 2024),Severe Storm,2024-04-01,2024-04-03,"$2,500.1","$2,475.0",3,,,,,,2500.1
+Southern and Eastern Severe Weather (April 2024),Severe Storm,2024-04-08,2024-04-11,"$2,155.6","$2,134.0",0,,,,,,2155.6
+Central and Southern Tornado Outbreak (April 2024),Severe Storm,2024-04-26,2024-04-28,"$1,173.0","$1,173.0",3,,,,,,1173
+"Central, Southern, Southeastern Tornado Outbreak (May 2024)",Severe Storm,2024-05-06,2024-05-09,"$4,727.0","$4,727.0",3,,,,,,4727
+Southern Derecho (May 2024),Severe Storm,2024-05-16,2024-05-17,"$1,212.0","$1,212.0",8,,,,,,1212
+"Central, Southern, Eastern Severe Weather (May 2024)",Severe Storm,2024-05-18,2024-05-22,"$4,782.0","$4,782.0",5,,,,,,4782
+Central Tornado Outbreak (May 2024),Severe Storm,2024-05-25,2024-05-26,"$2,496.0","$2,496.0",16,,,,,,2496
+Texas Hail Storms (May 2024),Severe Storm,2024-05-27,2024-05-28,"$2,025.0","$2,025.0",1,,,,,,2025
+Colorado Hail Storms and Southern Severe Weather (May 2024),Severe Storm,2024-05-31,2024-06-01,"$1,886.0","$1,886.0",0,,,,,,1886
